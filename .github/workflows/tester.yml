@@ -27,7 +27,7 @@ jobs:
       - uses: JohnAnthony98/HelloWorldAction@main
         with:
           Greeting: "Bonjour"
-          4ourName: "Dorf"
+          YourName: "Dorf"
   NoInput:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
