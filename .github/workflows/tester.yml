@@ -26,8 +26,8 @@ jobs:
       - uses: actions/checkout@v2
       - uses: JohnAnthony98/HelloWorldAction@main
         with:
-          GREETING: "Bonjour"
-          YOURNAME: "Dorf"
+          Greeting: "Bonjour"
+          4ourName: "Dorf"
   NoInput:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
